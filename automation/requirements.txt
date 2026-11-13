@@ -1,0 +1,4 @@
+supabase
+APScheduler
+requests
+python-dotenv
